@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Giraffe!</string>
+    <string name="app_name"></string>
+    <string name="play">Play</string>
+    <string name="background_title">Giraffe Adventure!</string>
+</resources>
